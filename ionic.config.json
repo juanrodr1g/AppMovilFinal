@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoIonicCamara",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
